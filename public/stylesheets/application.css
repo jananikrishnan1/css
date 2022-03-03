@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+    font-size: 70px;
+}
+
+h1 {
+    color: pink;
+}
+
+p {
+    font-size: 36px;
+    color: purple;
+}
+
+p a {
+    color: purple;
+}
